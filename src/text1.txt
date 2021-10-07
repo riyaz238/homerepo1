@@ -1,2 +1,2 @@
-sample text here
-new code from featurex
+sample text here ..  ..
+new code from feature1
